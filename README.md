@@ -151,9 +151,9 @@ This project helps in:
 
 ## Conclusion
 
-This project successfully demonstrates how data analysis can uncover valuable insights from global terrorism records.
+_This project successfully demonstrates how data analysis can uncover valuable insights from global terrorism records._
 
-By identifying attack trends, vulnerable regions, and common attack methods, this analysis supports better decision-making for governments, organizations, and security agencies in reducing terrorism risks and improving preparedness.
+_By identifying attack trends, vulnerable regions, and common attack methods, this analysis supports better decision-making for governments, organizations, and security agencies in reducing terrorism risks and improving preparedness._
 
 ---
 
